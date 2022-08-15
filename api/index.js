@@ -3,3 +3,5 @@ const handler = ({req, res}) => {
 //   console.log(res):
   return res.send(`Hello what's up!`);
 }
+
+export default handler;
